@@ -1,8 +1,8 @@
 # ESP32Subcounter
 connections:
 > 7-seg display
-hi&nbsp hi
 
+<pre>
   14  2  5  27 26 0     \
    ┇  |  |  ┇  ┇  |     \
 |====================|  \
@@ -10,7 +10,7 @@ hi&nbsp hi
 |====================|  \
    |  |  |  |  |  ┇     \
   17 16  19 4 18  25
-  
+</pre>
 ┇ = resistor ~220 Ω
   
 > RGB LED:
