@@ -1,6 +1,7 @@
 # ESP32Subcounter
 connections:
 > 7-seg display
+hi&nbsp hi
 
   14  2  5  27 26 0     \
    ┇  |  |  ┇  ┇  |     \
