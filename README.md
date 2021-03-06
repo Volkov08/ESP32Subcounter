@@ -23,3 +23,11 @@ connections:
 <pre>
 [metal strip] - 32
 </pre>
+
+required settings:
+<pre>
+const char* ssid = "your WIFI name";
+const char* password = "your WIFI pwd";
+const String UID = "creator ID";
+const String APIkey = "your YT API key";
+</pre>
