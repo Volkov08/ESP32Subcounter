@@ -10,9 +10,9 @@ connections:
 |====================|
    |  |  |  |  |  ┇  
   17 16  19 4 18  25
-</pre>
-┇ = resistor ~220 Ω
   
+┇ = resistor ~220 Ω
+</pre>
 > RGB LED:
 <pre>
   R   G   B \
@@ -21,5 +21,5 @@ connections:
 </pre>
 > Touch: 
 <pre>
-\[metal strip\] - 32
+[metal strip] - 32
 </pre>
