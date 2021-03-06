@@ -2,13 +2,13 @@
 required libraries:
 already available when using ESP32:
 
->Wifi.h
->HTTPClient.h
+>Wifi.h\
+>HTTPClient.h\
 
 have to be installed extra:
 
->SevSeg.h
->ArduinoJson.h
+>SevSeg.h\
+>ArduinoJson.h\
 
 connections:
 > 7-seg display
