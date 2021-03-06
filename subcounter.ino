@@ -51,7 +51,7 @@ void setup() {
   
   byte numDigits = 4;
   byte digitPins[] = {14,27,26,25};
-  byte segmentPins[] = {2,0,4,16,17,5,18,19,21};
+  byte segmentPins[] = {2,0,4,16,17,5,18,19};
   sevseg.begin(COMMON_CATHODE, numDigits, digitPins, segmentPins, false, false);
   sevseg.setBrightness(20);
   Serial.begin(115200);
