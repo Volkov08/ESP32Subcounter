@@ -14,9 +14,9 @@ connections:
   
 > RGB LED:
 
-  R   G   B \
+  R   G   B
   |   |   | \
-  21  22  23 \
+  21  22  23
  
 > Touch: 
 \[metal strip\] - 32
