@@ -15,8 +15,8 @@ connections:
 </pre>
 > RGB LED:
 <pre>
-  R   G   B \
-  |   |   | \
+  R   G   B
+  |   |   |
   21  22  23
 </pre>
 > Touch: 
